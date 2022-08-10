@@ -1,1 +1,3 @@
 # tik.tak.toe
+
+In this Project I worked on creating a basic game of tic tac toe. I learned to use functions and constants to make the game. All being done inside react, in version 1.0 I have it set up pretty basic with a user vs user game. In later versions I will be implamenting a vs computer game. This project also tought me how to save game information in the local drive of the browser. Allowing me to access it every time the user comes back to the page and keep there game going.
