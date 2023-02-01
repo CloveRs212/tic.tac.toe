@@ -75,6 +75,7 @@ square {
   padding: 0;
   text-align: center;
   width: 34px;
+  height: 34px;
 }
 
 .square.focus {
